@@ -68,6 +68,7 @@ chain_id: demo-1
     valoper_address: demovaloper...
 ```
 #########################################
+
 INSTALL TENDERDUTY LIKA A SERVICE
 https://teletype.in/@itrocket/bdJAHvC_q8h
 
